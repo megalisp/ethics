@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"08032fbde4231be2","x":-40,"y":-267,"width":380,"height":107,"type":"text","text":"#### Rack' `\"Ethics\"`."},
+		{"id":"3b6c97c8eec0ed96","x":60,"y":-360,"width":280,"height":93,"type":"text","text":"# ETHICS"},
+		{"id":"19aca63aa3246967","type":"text","text":"This Obsidian Vault / \"KnowledgeBase\" is dedicated to my beliefs on and experience with language-design. It is most filtered though the frame of Racket -- but will extend to Lisps often, and even out of those bounds 'enough' but ultimately I'm making an argument (though publicly -- to myself) how I think programming-languages `should` work. \n\n","x":-400,"y":-120,"width":1100,"height":280}
+	],
+	"edges":[]
+}
