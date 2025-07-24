@@ -46,7 +46,12 @@
   "exportPath": "/var/room/omegalisp/.noted/ETHICS/docs",
   "filesToExport": [
     [
-      "all"
+      "_res_",
+      "LICENSE",
+      "index.canvas",
+      "LEGAL.txt",
+      "logo.png",
+      "README.md"
     ]
   ]
 }
