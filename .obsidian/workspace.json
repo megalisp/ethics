@@ -28,17 +28,14 @@
             "id": "1841c5466a0f3fed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 745.3423319725374,
-                  "y": -467.58851815089673,
-                  "zoom": -1.2000000000000002
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "index"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -192,8 +189,8 @@
   },
   "active": "1841c5466a0f3fed",
   "lastOpenFiles": [
-    "README.md",
     "index.canvas",
+    "README.md",
     "docs/lib/metadata.json",
     "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
